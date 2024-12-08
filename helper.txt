@@ -1,0 +1,3 @@
+Невидимые стены:
+	1. Box collider - вкл
+	2. Mesh render - выкл
